@@ -1,6 +1,7 @@
 <div align = "center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=580&size=28&pause=1000&color=0093FF&center=true&vCenter=true&width=1000&lines=My+name+is+LEEJIWOO;Front-end+developer;NLP+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=580&size=40&pause=1000&color=0093FF&center=true&vCenter=true&width=900&lines=My+name+is+Leejiwoo;Front-end+developer;NLP+developer)](https://git.io/typing-svg)
+<br>
 <br>
 <h3 align = "center" > " 프론트 엔드 또는 NLP 개발자가 되는 것이 꿈입니다 " </h3>
 <h3 align = "center" >SNS & Mail</h3> 
