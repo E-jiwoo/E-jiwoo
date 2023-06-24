@@ -35,6 +35,6 @@
 
 <div align = "center" ><h3>Git state</h3></div>
 
-[![E-jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejiwoo&theme=calm)](https://github.com/E-jiwoo/github-readme-stats)
+[![E-jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-jiwoo&theme=calm)](https://github.com/E-jiwoo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leejiwoo&layout=compact&theme=gruvbox)](https://github.com/E-jiwoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-jiwoo&layout=compact&theme=gruvbox)](https://github.com/E-jiwoo/github-readme-stats)
