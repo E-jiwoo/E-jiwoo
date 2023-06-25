@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=Intellij IDEA&logoColor=white">
 </p>
 
-<div align = "center" ><h3>Git state</h3></div>
+<div align = "center" ><h3>Git stats</h3></div>
 
 [![E-jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-jiwoo&theme=calm)](https://github.com/E-jiwoo/github-readme-stats)
 
