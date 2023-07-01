@@ -6,7 +6,7 @@
 <h3 align = "center" > " 프론트 엔드 또는 NLP 개발자가 되는 것이 꿈입니다 " </h3>
 <h3 align = "center" >SNS & Mail</h3> 
 <p align = "center" >
-<a href="https://instagram.com/0.0_wji?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/0.0_wji-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+<a href="https://instagram.com/sausage_woo?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/0.0_wji-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="https://instagram.com/sausage_woo?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/sausage_woo-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="mailto:livei0307@gmail.com"><img src="https://img.shields.io/badge/livei0307@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
