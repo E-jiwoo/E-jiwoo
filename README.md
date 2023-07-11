@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=580&size=40&pause=1000&color=0093FF&center=true&vCenter=true&width=900&lines=My+name+is+Leejiwoo;Front-end+developer;NLP+developer)](https://git.io/typing-svg)
 <br>
 <br>
-<h3 align = "center" > " 프론트 엔드 또는 NLP 개발자가 되는 것이 꿈입니다 " </h3>
+<h3 align = "center" > " 프론트 엔드 개발자가 되는 것이 꿈입니다 " </h3>
 <h3 align = "center" >SNS & Mail</h3> 
 <p align = "center" >
 <a href="https://instagram.com/sausage_woo?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/0.0_wji-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
