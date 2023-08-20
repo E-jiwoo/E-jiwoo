@@ -9,6 +9,7 @@
 <a href="https://instagram.com/sausage_woo?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/0.0_wji-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="https://instagram.com/sausage_woo?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/sausage_woo-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="mailto:livei0307@gmail.com"><img src="https://img.shields.io/badge/livei0307@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+<a href="mailto:e-jiwoo"><img src="https://velog.io/@e-jiwoo-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
 <h3 align = "center" >📖Studying📖</h3> 
