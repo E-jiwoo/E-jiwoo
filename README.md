@@ -1,7 +1,3 @@
-<div align = "center">
-
-<br>
-<br>
 <h3 align = "center" >SNS & Mail</h3> 
 <p align = "center" >
 <a href="https://instagram.com/sausage_woo?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/0.0_wji-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
