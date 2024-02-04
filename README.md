@@ -4,7 +4,7 @@
 <a href="https://instagram.com/jcode_u?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/jcode_u-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 <a href="mailto:livei0307@gmail.com"><img src="https://img.shields.io/badge/livei0307@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <a href="https://velog.io/@e-jiwoo/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
-  <a href="https://shadowed-oxygen-61c.notion.site/79ef35314b314ba3ba8b3537887d9dac?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a>
+  <a href="https://shadowed-oxygen-61c.notion.site/79ef35314b314ba3ba8b3537887d9dac?pvs=4"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white"></a>
 </p>
 <h3 align = "center" >📖Studying📖</h3> 
 <p align = "center" >
