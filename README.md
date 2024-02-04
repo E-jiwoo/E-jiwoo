@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=LEEJIWOO&fontColor=fff&fontAlign=70&fontAlignY=40&fontSize=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&text=LEEJIWOO&height=200&color=0080ff)
 <h3 align = "center" >SNS & Mail</h3> 
 <p align = "center" >
 <a href="https://instagram.com/jcode_u?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/jcode_u-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
